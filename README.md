@@ -9,15 +9,14 @@ The dashboard includes interactive slicers, dynamic visualizations, and standard
 - Conducted dashboard walkthroughs and training sessions for 40+ R&D end users to support adoption, usability, and consistent interpretation of reporting metrics
 
 ## Tools & Skills
-Excel (macros)
-Power BI
-DAX
-Copilot·· 
-Data Cleaning & Standardization
-Data Visualization
-Dashboard Design
-Executive Reporting
-Financial & Portfolio Analytics
+- Excel (macros)
+- Power BI (DAX)
+- Copilot
+- Data Cleaning & Standardization
+- Data Visualization
+- Dashboard Design
+- Executive Reporting
+- Financial & Portfolio Analytics
 
 ## Files Included
 1. .pbix file containing the full interactive dashboard
