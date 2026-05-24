@@ -12,7 +12,7 @@ The dashboard includes interactive slicers, dynamic visualizations, and standard
 Excel (macros)
 Power BI
 DAX
-Copilot 
+Copilot·· 
 Data Cleaning & Standardization
 Data Visualization
 Dashboard Design
@@ -20,8 +20,8 @@ Executive Reporting
 Financial & Portfolio Analytics
 
 ## Files Included
-.pbix file containing the full interactive dashboard
-PDF version of the dashboard for quick viewing and reference
+1. .pbix file containing the full interactive dashboard
+2. PDF version of the dashboard for quick viewing and reference
 
 ## Important Note
 To protect confidentiality, all data in this sample project has been randomly generated and redacted. No internal or sensitive organizational information is included.
